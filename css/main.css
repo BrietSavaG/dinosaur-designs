@@ -12,7 +12,7 @@ html {
 img {width: 100%;}
 
 h1, h2, h3 {
-  font-family: 'Denk One', sans-serif;
+  font-family: 'Patua One', cursive;
 }
 
 h1, h2 {
@@ -20,7 +20,7 @@ h1, h2 {
   text-transform: uppercase;
 }
 
-figcaption{
+figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
